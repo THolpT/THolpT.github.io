@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/THolpT/THolpT.github.io/static/css/main.cc44fc89.css",
+    "main.js": "/THolpT/THolpT.github.io/static/js/main.34ff5108.js",
+    "static/media/banner.svg": "/THolpT/THolpT.github.io/static/media/banner.0adc81d9f5695303306154f95d94aabe.svg",
+    "static/media/logo.svg": "/THolpT/THolpT.github.io/static/media/logo.3d54d3c011864ebd7b93acf04a075bc1.svg",
+    "index.html": "/THolpT/THolpT.github.io/index.html",
+    "main.cc44fc89.css.map": "/THolpT/THolpT.github.io/static/css/main.cc44fc89.css.map",
+    "main.34ff5108.js.map": "/THolpT/THolpT.github.io/static/js/main.34ff5108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc44fc89.css",
+    "static/js/main.34ff5108.js"
+  ]
+}
