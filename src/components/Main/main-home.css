@@ -1,0 +1,38 @@
+main {
+    height: 155px;
+    height: 830px;
+    display: flex;
+}
+
+.img {
+position: relative;
+left: 650px;
+top: 70px;
+}
+
+.text {
+    width: 500px;
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+
+.find {
+    font-size: 72px;
+    margin-bottom: 64px;
+}
+
+.inf {
+    font-size: 32px;
+    margin-bottom: 64px;
+}
+
+.but {
+    box-shadow: inset 0px -9px 0px 0px rgba(0, 0, 0, 0.18);
+    background-color: #73D677;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+

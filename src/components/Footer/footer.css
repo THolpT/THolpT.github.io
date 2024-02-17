@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    position: relative;
+    bottom: 20px;
+}
+
+.fot1 {
+    position: relative;
+    left: 190px;
+    font-size: 18px;
+}
+
+.fot2 {
+    position: relative;
+    left: 1020px;
+    font-size: 18px;
+}

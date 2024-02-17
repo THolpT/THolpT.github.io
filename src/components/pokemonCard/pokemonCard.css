@@ -1,0 +1,98 @@
+.pokemon-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .pokemon-card {
+    width: 500px; /* Увеличиваем ширину карточки */
+    min-width: 600px; /* Минимальная ширина для обеспечения соответствующего расположения элементов */
+    height: 200px;
+    display: flex;
+    margin: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .pokemon-info {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .pokemon-name {
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .stat {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #4CAF50; /* Зелёный цвет для атаки */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .defense-circle {
+    background-color: #2196F3; /* Синий цвет для защиты */
+  }
+  
+  .element {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .pokemon-image {
+    flex: 1;
+    background-size: auto;
+    background-position: center; /* Полностью помещаем изображение в карточке */
+  }
+  
+  .element-circle {
+    width: 80px;
+    height: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .fire {
+    background-color: #FF5722; /* Оранжевый цвет для огня */
+  }
+  
+  .water {
+    background-color: #2196F3; /* Синий цвет для воды */
+  }
+  
+  .grass {
+    background-color: #4CAF50; /* Зелёный цвет для травы */
+  }
+  
+  .font {
+    font-family: Arial, sans-serif; /* Настройка шрифта */
+  }
+  
+  .pokemon-right {
+    width: 60%; /* Ширина правой части карточки */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
